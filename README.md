@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am expirienced cv engineer
+(linkedin)[https://www.linkedin.com/in/ainurkarimov/]
+(cv)[https://github.com/ainureg/cv/blob/main/cv.pdf]
+
+
 <!--
 **ainureg/ainureg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
