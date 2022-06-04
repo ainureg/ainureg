@@ -4,7 +4,7 @@ I am expirienced cv engineer
 
 [linkedin](https://www.linkedin.com/in/ainurkarimov)
 
-[cv](https://github.com/ainureg/cv/blob/main/cv.pdf)
+[cv](https://github.com/ainureg/cv/blob/main/cv_karimov_ainur.pdf)
 
 
 <!--
